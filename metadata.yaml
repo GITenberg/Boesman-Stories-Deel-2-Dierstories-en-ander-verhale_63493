@@ -1,0 +1,45 @@
+_repo: Boesman-Stories-Deel-2-Dierstories-en-ander-verhale_63493
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Keet, R. F.
+    gutenberg_agent_id: '51900'
+    url: http://www.gutenberg.org/2009/agents/51900
+creator:
+  author:
+    agent_name: Von Wielligh, G. R. (Gideon Retief)
+    aliases:
+    - Von Wiellich, G. R. (Gideon Retief)
+    - Wielligh, Gideon Retief von
+    - Wielligh, G. R. von
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '51899'
+    url: http://www.gutenberg.org/2009/agents/51899
+    wikipedia: https://af.wikipedia.org/wiki/G.R._von_Wielligh
+description: ''
+gutenberg_issued: '2020-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63493'
+language: af
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San (African people) -- Folklore'
+- !lcsh 'Tales -- Africa, Southern'
+- !lcc 'GR'
+- GITenberg
+tableOfContents: '''n Paar Woorde vooraf -- Kraai se vernedering -- Die Aasvoëls --
+  Erdvark, Vlakvark, Kwagga en Bosvark -- Hasie, Tingtinkie en Uil -- Die Boesman
+  en Leeu ontmoet in ''n Spelonk -- Slang en Skilpad is broers -- Leeu, Wolf en Jakkals
+  -- Die Bobbejane en Ape -- Die Sonbesies en Kriekies -- Leeu en Wolf eet oor en
+  weer -- Volstruis word weer lewendig -- Leeu word jaloers -- Perdeby en sy Vrou
+  -- Moeder Leeu en die Kinders -- Boesman-Gedigte -- Leeu binne die Hut by die Kind
+  -- Wolf en sy twee Vroue -- Tier is ontevrede met die Son -- Ystervark en Vlermuis
+  -- Twee in een Skot -- Die Hamerkopvoël en die Swaweltjies -- Die Wolke -- Mierkatte
+  en Erdmannetjies -- Die Boom wat al maande sterf en weer lewendig word -- "Die Dieredans"
+  deur Boesmans uitgevoer.'
+title: Boesman-Stories. Deel 2, Dierstories en ander verhale
+url: http://www.gutenberg.org/ebooks/63493
