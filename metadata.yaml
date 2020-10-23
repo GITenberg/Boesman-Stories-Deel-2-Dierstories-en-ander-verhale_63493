@@ -5,6 +5,9 @@ contributor:
     agent_name: Keet, R. F.
     gutenberg_agent_id: '51900'
     url: http://www.gutenberg.org/2009/agents/51900
+covers:
+- cover_type: archival
+  image_path: 63493-h/images/d2cover.jpg
 creator:
   author:
     agent_name: Von Wielligh, G. R. (Gideon Retief)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51899
     wikipedia: https://af.wikipedia.org/wiki/G.R._von_Wielligh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63493#Boesman-Stories-Deel-2-Dierstories-en-ander-verhale
 gutenberg_issued: '2020-10-18'
 gutenberg_type: Text
 identifiers:
